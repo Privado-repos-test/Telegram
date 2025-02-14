@@ -5,7 +5,7 @@ obj/
 *.iml
 local.properties
 TMessagesProj/.cxx/
-TMessagesProj/jniLibs/
+TMessagesProj/jniLibs/ 
 TMessagesProj/jniRes/
 **/.DS_Store
 TMessagesProj/afat/
